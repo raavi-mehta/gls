@@ -4,6 +4,8 @@ gls is a "graphical ls" program that recursively prints all files and folders in
 directory, along with their filetype, size, and MD5 checksum. Symbolic links
 will also be listed with their relative and absolute paths.
 
+Note: This project was created for experimental/learning purposes.
+
 Example Output
 --------------
 ![Alt text](example.png?raw=true "Title")
