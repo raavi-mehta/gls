@@ -55,10 +55,10 @@ void printHierarchy(DIR *dir, char *path, int level, int a_flag) {
 
 		// Get path of directory entry
 		char new_path[PATH_MAX + 1];
-    	size_t size = snprintf(new_path, sizeof(new_path) - 1, "%s/%s", path, entry->d_name);
-    	new_path[size] = '\0';
+    		size_t size = snprintf(new_path, sizeof(new_path) - 1, "%s/%s", path, entry->d_name);
+    		new_path[size] = '\0';
 
-    	// get file type of directory entry
+    		// get file type of directory entry
 		char type[32];
 		getFileType(type, entry->d_type);
 
