@@ -1,7 +1,7 @@
 CPSC 457 - Spring 2016 - Assignment 1
 =====================================
 
-A "graphical ls" program that recursively prints all files and folders in a
+gls is a "graphical ls" program that recursively prints all files and folders in a
 directory, along with their filetype, size, and MD5 checksum. Symbolic links
 will also be listed with their relative and absolute paths.
 
