@@ -52,7 +52,3 @@ http://www.gnu.org/software/libc/manual/html_node/Attribute-Meanings.html
 _MD5 Hashing in C_
 
 https://www.openssl.org/docs/manmaster/crypto/md5.html
-
-_Announciation of Linux by Linus Torvalds_
-
-http://www.thelinuxdaily.com/2010/04/the-first-linux-announcement-from-linus-torvalds/
